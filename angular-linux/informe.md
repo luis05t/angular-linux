@@ -114,6 +114,9 @@ Y en lo resultados se puede ver que se creo todo corretamente la estrutura de pr
     
 En los resultados obtenidos se puede observar que se pudo realizar lo que es toda la estructura de un proyecto de angular con comandos de LinuX, como se puede ver en la imagen.
 ![Termina](./Imagenes/image.png)
+
+## 10. Audio
+ Link: https://voca.ro/1etUPivY2bnt
 ## 10. Bibliografía
     
 - A, D., & A, D. (2023, 29 septiembre). Cómo usar el comando touch de Linux + Ejemplos. ES Tutoriales. https://www.hostinger.com/es/tutoriales/usar-comando-touch-linux-ejemplos 
